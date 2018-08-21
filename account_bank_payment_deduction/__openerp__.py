@@ -9,6 +9,7 @@
         'account_bank_payment'
     ],
     'data': [
+        'security/ir.model.access.csv',
         'views/account_bank_payment_deduction_view.xml',
     ],
 }
